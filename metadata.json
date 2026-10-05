@@ -1,0 +1,6 @@
+{
+  "name": "Kōhī Atelier & Roastery",
+  "description": "Artisanal specialty coffee roastery, interactive seasonal menu, custom drink ordering, table reservations, and master brew guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
